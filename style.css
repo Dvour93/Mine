@@ -1,0 +1,8 @@
+.background-div {
+    background-image: url(wallhaven-w81pm6_3840x1600.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1000px;
+    width: 100%;
+}
